@@ -17,7 +17,7 @@ This project was my first foray into natural language processing and topic model
     - TD-IDF vectorization
 3. NMF topic modeling and optimization
 4. Visualization
-    - Wordlcloud
+    - Wordcloud
     - K-means clustering
     - Document Type similarity with PCA and t-SNE
 
