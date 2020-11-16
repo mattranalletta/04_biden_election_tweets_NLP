@@ -35,13 +35,14 @@ I found 10 pretty discrete topics in the tweets, with the top two most occurring
 - Jupyter Notebook
 - Python
 - Pandas
-- Scikit-learn
 - Matplotlib
 - Wordcloud
 - NLTK
-- TDIDF vectorizer
-- PCA
-- t-SNE
+- Scikit-learn
+   - TF-IDF vectorizer
+   - K-Means clustering
+   - Principal Component Analysis (PCA)
+   - t-SNE
 
 ## Skills Demonstrated
 
