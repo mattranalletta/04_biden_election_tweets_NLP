@@ -5,11 +5,11 @@ by [Matt Ranalletta](https://www.linkedin.com/in/matthewranalletta/)
 
 ## Summary
 
-The goal of this project was to do my first start-to-finish NLP process and topic modeling using Joe Biden's 2020 election tweets - an 18-month period from his declaration of candidacy in April 2019 through October 2020.
+This project was my first foray into natural language processing and topic modeling using Joe Biden's 2020 election tweets - an 18-month period from his declaration of candidacy on April 25, 2019 through October 31, 2020, right before the general election. The goal was to find topic trends over the course of the campaign, especially in the primary vs. general election and through the COVID-19 pandemic.
 
 ## Methodologies
 
-1. Found a Kaggle set of Joe Biden's tweets (2007-2020). The tweets I were using were 
+1. Found a [Kaggle set of Joe Biden's tweets](https://www.kaggle.com/rohanrao/joe-biden-tweets).
 2. NLP preprocessing: 
     - removal of apostrophes, special characters, non-English words, etc.
     - lemmatization
@@ -29,10 +29,6 @@ I found 10 pretty discrete topics in the tweets, with the top two most occurring
 
 - [NLP Notebook](https://github.com/mattranalletta/04_biden_election_tweets_NLP/blob/main/code/biden_tweets_NLP.ipynb)
 - [Presentation - Google Slides](https://docs.google.com/presentation/d/1YA9d4hFXM-0iyGGHcCYHzsSTAXSwLso-KszxsPpfrBg/edit?usp=sharing) / [PDF](https://github.com/mattranalletta/04_biden_election_tweets_NLP/blob/main/presentation/Joe%20Biden's%20Election%20Tweets.pdf)
-
-## Data
-
-- [Joe Biden's Tweets: Kaggle](https://www.kaggle.com/rohanrao/joe-biden-tweets)
 
 ## Technologies and Libraries Used
 
